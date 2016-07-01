@@ -25,4 +25,5 @@
     </platform>
     <engine name="android" spec="~5.1.1" />
     <engine name="ios" spec="~4.0.1" />
+    <plugin name="cordova-plugin-firebase" spec="https://github.com/arnesson/cordova-plugin-firebase.git" />
 </widget>
